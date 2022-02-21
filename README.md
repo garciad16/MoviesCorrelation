@@ -1,4 +1,4 @@
-# MoviesCorrelation
+# Movies Industry and Python Correlation
 
 - Takes a data set from Kaggle about the Movie Industry: https://www.kaggle.com/danielgrijalvas/movies
 - Hypothesis: Budget and Company have a high correlation with Gross column
